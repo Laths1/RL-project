@@ -43,11 +43,5 @@ The improved implementations feature several key enhancements:
 - Temporal processing via frame stacking
 
 ## Usage Instructions
+All the models were trained on the HPC cluster. To train the models, create a .sh file and train on the cluster.
 
-### Training Models
-```bash
-# Run baseline training
-python assignment/baseline/implementation.py
-
-# Run improved model training  
-python assignment/improved/implementation.py
